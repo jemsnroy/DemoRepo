@@ -1,0 +1,5 @@
+com\fb\qa\ExtentReportListener\ExtentReportListener.class
+com\fb\qa\TestBase\TestBase.class
+com\fb\qa\TestPages\SignUpPage.class
+com\fb\qa\TestPages\HomePage.class
+com\fb\qa\TestPages\LoginPage.class

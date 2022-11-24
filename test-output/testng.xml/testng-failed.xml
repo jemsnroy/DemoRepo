@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testng.xml]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.fb.qa.ExtentReportListener.ExtentReportListener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.fb.qa.Tests.HomePageTest">
+        <methods>
+          <include name="verifySearchBox"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.fb.qa.Tests.HomePageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [testng.xml] -->

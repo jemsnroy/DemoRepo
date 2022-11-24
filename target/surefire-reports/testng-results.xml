@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T23:44:35Z" name="Command line suite" finished-at="2022-11-23T23:45:23Z" duration-ms="47829">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T23:44:35Z" name="Command line test" finished-at="2022-11-23T23:45:23Z" duration-ms="47829">
+      <class name="com.fb.qa.Tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:44:40Z" name="setUp" finished-at="2022-11-23T18:44:46Z" duration-ms="6107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyURL()[pri:1, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:44:46Z" name="verifyURL" finished-at="2022-11-23T18:44:46Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:44:46Z" name="tearDown" finished-at="2022-11-23T18:44:47Z" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:44:50Z" name="setUp" finished-at="2022-11-23T18:44:56Z" duration-ms="5763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearchBox()[pri:2, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:44:56Z" name="verifySearchBox" finished-at="2022-11-23T18:44:56Z" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:44:56Z" name="tearDown" finished-at="2022-11-23T18:44:57Z" duration-ms="642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:45:00Z" name="setUp" finished-at="2022-11-23T18:45:07Z" duration-ms="6370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogOutButton()[pri:3, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:45:07Z" name="verifyLogOutButton" finished-at="2022-11-23T18:45:08Z" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogOutButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.Tests.HomePageTest@e720b71]" started-at="2022-11-23T18:45:08Z" name="tearDown" finished-at="2022-11-23T18:45:09Z" duration-ms="688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fb.qa.Tests.HomePageTest -->
+      <class name="com.fb.qa.Tests.SignUpPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fb.qa.Tests.SignUpPageTest@491cc5c9]" started-at="2022-11-23T18:44:35Z" name="setup" finished-at="2022-11-23T18:44:38Z" duration-ms="3144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCNA()[pri:0, instance:com.fb.qa.Tests.SignUpPageTest@491cc5c9]" started-at="2022-11-23T18:44:38Z" name="verifyCNA" finished-at="2022-11-23T18:44:40Z" duration-ms="1658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCNA -->
+      </class> <!-- com.fb.qa.Tests.SignUpPageTest -->
+      <class name="com.fb.qa.Tests.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:44:47Z" name="setup" finished-at="2022-11-23T18:44:49Z" duration-ms="2577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyImage()[pri:1, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:44:49Z" name="verifyImage" finished-at="2022-11-23T18:44:49Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:44:49Z" name="tearDown" finished-at="2022-11-23T18:44:50Z" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:44:57Z" name="setup" finished-at="2022-11-23T18:44:59Z" duration-ms="2629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyText()[pri:2, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:44:59Z" name="verifyText" finished-at="2022-11-23T18:44:59Z" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:44:59Z" name="tearDown" finished-at="2022-11-23T18:45:00Z" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:09Z" name="setup" finished-at="2022-11-23T18:45:11Z" duration-ms="2475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyURL()[pri:3, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:11Z" name="verifyURL" finished-at="2022-11-23T18:45:11Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:11Z" name="tearDown" finished-at="2022-11-23T18:45:12Z" duration-ms="1140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:12Z" name="setup" finished-at="2022-11-23T18:45:15Z" duration-ms="2604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyloginWithWrongChar()[pri:4, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:15Z" name="verifyloginWithWrongChar" finished-at="2022-11-23T18:45:16Z" duration-ms="1130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginWithWrongChar -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:16Z" name="tearDown" finished-at="2022-11-23T18:45:17Z" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:17Z" name="setup" finished-at="2022-11-23T18:45:19Z" duration-ms="2428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:5, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:19Z" name="verifyLogin" finished-at="2022-11-23T18:45:22Z" duration-ms="3033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.fb.qa.Tests.LoginPageTest@1b26f7b2]" started-at="2022-11-23T18:45:22Z" name="tearDown" finished-at="2022-11-23T18:45:23Z" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.fb.qa.Tests.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
